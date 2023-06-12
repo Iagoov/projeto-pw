@@ -1,0 +1,44 @@
+#sobre {
+    align-items: center;
+    background-color:#D2D0D0;
+    width:100%;
+    height: 100%;
+    margin-top: -3vh;
+}
+
+#torre {
+    display: flex;
+    height: 100%;
+    width:100%;
+    left: 965px;
+    top: 400px;
+    margin-bottom: 100px;
+    
+}
+
+#title {
+    position: absolute;
+    width: 580px;
+    height: 64px;
+    left: 70px;
+    top: 100px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+}
+
+#txt {
+    position: absolute;
+    width: 580px;
+    height: 35.2vh;
+    left: 7vh;
+    top: 10vh;
+
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px; 
+}
